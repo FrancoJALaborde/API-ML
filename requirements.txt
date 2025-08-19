@@ -1,0 +1,8 @@
+fastapi
+datetime
+typing
+numpy
+pandas
+uvicorn
+scikit-learn
+matplotlib
