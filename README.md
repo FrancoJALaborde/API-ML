@@ -29,7 +29,7 @@ Run the API locally with Uvicorn:
 uvicorn app:app --reload
 
 The API will be available at:
-👉 http://127.0.0.1:8000
+👉 https://api-ml-6xsy.onrender.com
 
 ## 📊 Endpoints
 
@@ -151,3 +151,4 @@ Provides a summary with the number of customers in each cluster (cluster_summary
 - A marketing team wants to **segment customers** into groups (loyal, occasional, at risk, inactive).  
 - The API provides **RFM scores + clusters** and a **visual plot** to better understand how customers are distributed.  
 - Segments can then be used for **targeted marketing campaigns**.  
+
